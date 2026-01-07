@@ -9,3 +9,15 @@ This project demonstrates professional Git workflow with remote repositories.
 
 ## Setup
 See lab instructions for complete setup guide.
+
+
+## Installation
+
+1. Clone this repository:
+   ```
+   git clone <REMOTE_URL>
+   cd git-team-lab
+   ```
+
+2. Install dependencies (if applicable):
+
